@@ -32,16 +32,17 @@ A web-based tool that analyzes word frequencies on any webpage. Simply input a U
 1. **Clone the repository**
 
    git clone https://github.com/your-username/word-frequency-analyzer.git
+   
    cd word-frequency-analyzer
 
 
-2. **Start the PHP server**
+3. **Start the PHP server**
 
    # Use XAMPP/WAMP/MAMP
    # Copy files to your web server directory
    
 
-3. **Access the application**
+4. **Access the application**
    - Open your browser
    - Navigate to `http://localhost:8000`
 
@@ -97,6 +98,7 @@ The application handles various error cases:
 ## 👤 Author
 
 Created by [Ankit Singh](https://github.com/Ankit-git463)
+
 Overview and Demo :  [Follow the link](https://www.loom.com/share/481329a95e7c403681ee7077be78ec99?sid=e27666a3-94aa-407f-89f9-fc34848c4879)
 
 
