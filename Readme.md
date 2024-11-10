@@ -36,7 +36,7 @@ A web-based tool that analyzes word frequencies on any webpage. Simply input a U
 
 1. **Clone the repository**
 
-   git clone https://github.com/your-username/word-frequency-analyzer.git
+   git clone [https://github.com/your-username/word-frequency-analyzer.git](https://github.com/Ankit-git463/REST-API-BASED-FREQUENCY-COUNTER)
    
    cd word-frequency-analyzer
 
