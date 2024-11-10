@@ -19,10 +19,15 @@ A web-based tool that analyzes word frequencies on any webpage. Simply input a U
 ## 📁 Project Structure
 
 ├── index.html   # Main application interface
+
 ├── js
+
 │   └── main.js  
+
 ├── api
+
 │   └── restapi.php         # API endpoint for text analysis
+
 └── README.md              # Project documentation
 
 
